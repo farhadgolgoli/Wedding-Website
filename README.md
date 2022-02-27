@@ -1,2 +1,2 @@
 # Wedding-Website
-farhad
+This is wedding website, Including : HTML5, Css3, Javascript, Swiper
