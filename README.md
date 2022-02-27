@@ -1,2 +1,2 @@
 # Wedding-Website
-This is wedding website, Including : HTML5, Css3, Javascript, swiper
+This is a wedding website, Including : HTML5, Css3, Javascript, swiper
